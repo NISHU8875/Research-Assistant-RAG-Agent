@@ -66,8 +66,8 @@ Here's the next question, asked by the bot, about the model capabilities and the
 
 ---
 **Try it out**:
-**[Open Streamlit App]()**
+**[Open Streamlit App](https://real-estate-rag-agent-nishu-om.streamlit.app/)**
 
 **NISHU KUMAR**
 
-[LinkedIn]() • [GitHub]() • [Portfolio]()
+[LinkedIn](https://www.linkedin.com/in/nishu-kumar-b7a7b4247/) • [GitHub](https://github.com/NISHU8875) • [Portfolio]()
