@@ -70,4 +70,4 @@ Here's the next question, asked by the bot, about the model capabilities and the
 
 **NISHU KUMAR**
 
-[LinkedIn](https://www.linkedin.com/in/nishu-kumar-b7a7b4247/) • [GitHub](https://github.com/NISHU8875) • [Portfolio]()
+[LinkedIn](https://www.linkedin.com/in/nishu73/) • [GitHub](https://github.com/NISHU8875) • [Portfolio]()
