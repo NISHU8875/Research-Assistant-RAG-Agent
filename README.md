@@ -38,7 +38,7 @@ The user can drop URLs and ask questions to receive relevant insights from that 
 ## Set-Up
 1. Clone the repository
 ``` bash
-  git clone https://github.com/itsmoksh/research-assistant.git
+  git clone https://github.com/NISHU8875/Research-Assistant-RAG-Agent.git
 ```
 2. Run the following command to install all dependencies.
 ``` bash
